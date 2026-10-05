@@ -1,0 +1,11 @@
+{
+ "deploy_us_per_case": 0.4097786740021548,
+ "certify_s": 0.4588567030004924,
+ "increment_MB": 4.8,
+ "stream_audit_s": 4.4029905240004155,
+ "stream_static_s": 0.03192109300107404,
+ "stream_wcp_s": 0.1848423819992604,
+ "stream_hoeff_s": 0.18874443099957716,
+ "encoder_img_per_s": 15.814094775212636,
+ "head_params": 513
+}

@@ -1,0 +1,7 @@
+numpy>=2.0
+scipy>=1.11
+pandas>=2.0
+scikit-learn>=1.4
+onnxruntime>=1.17
+pillow>=10
+matplotlib>=3.8
